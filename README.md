@@ -1,7 +1,7 @@
 ## Hi there 👋
       
 <!--     
-**VietNamNode/VietNamNode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VietNamNode/VietNamNode** is a ✨ _special_ ✨ repository be cause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
