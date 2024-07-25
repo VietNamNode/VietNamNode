@@ -1,7 +1,7 @@
  ## Hi there 👋
                
 <!--             
-**VietNamNode/VietNamNode** is a ✨ _specia l_  ✨ reposit ory be cause its `README.md` (this file) appears on your GitHub profile. 
+**VietNamNode/VietNamNode** is a ✨ _spec ia l_  ✨ reposit ory be cause its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: 
 
